@@ -1,18 +1,18 @@
-# print ("hellow")
-# a=30
-# b="31"
-# c=4.44
-# d=True
-# print(a)
-# print(b)
-# print(c)
-# print(d)
-# print(type(a)) #integer
-# a=str(a)       #int coverted into string
-# print(type(a)) #string
-# taking input from user
-# name = input("what is your name ? " ) 
-# print('hii ' + name)
+print ("hellow")
+a=30
+b="31"
+c=4.44
+d=True
+print(a)
+print(b)
+print(c)
+print(d)
+print(type(a)) #integer
+a=str(a)       #int coverted into string
+print(type(a)) #string
+#taking input from user
+name = input("what is your name ? " ) 
+print('hii ' + name)
 
 # colour = input("what is your fav colour ? " ) 
 # print(name +' likes ' + colour)
